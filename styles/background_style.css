@@ -75,10 +75,16 @@ body{
 
 .topHalf{
     grid-row: 1;
+
+    font-weight: 700;
+    font-style: bold;
 }
 
 .bottomHalf{
     grid-row: 2;
+
+    font-weight: 400;
+    font-style: regular;
 }
 
 .profileContainer{
