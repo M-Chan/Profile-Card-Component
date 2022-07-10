@@ -8,6 +8,8 @@
 body{
     font-family: 'Kumbh Sans', sans-serif;
     background-color: #19A1AD;
+
+    overflow: hidden;
 }
 
 .container{
@@ -32,6 +34,20 @@ body{
     position: absolute;
     right: 45%;
     bottom: 40%;
+}
+
+#bottomCircle{
+    width: 65%;
+    height: 120%;
+
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url("../assets/bg-pattern-bottom.svg");
+
+    position: absolute;
+    z-index: -1;
+    left: 49%;
+    top: 52%;
 }
 
 .profileCard{
