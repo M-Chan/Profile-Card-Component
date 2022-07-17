@@ -157,15 +157,8 @@ body{
     text-align: center;
 }
 
-.separator{
-    display: block;
-    position: absolute;
-    z-index: 3;
-
-    left: 7.5vw;
-
-    width: 10vw;
-    height: 1vh;
+hr{
+    border-top: 1px solid hsl(0, 0%, 59%);
 }
 
 .attribution{
