@@ -23,7 +23,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 
 ### Screenshot
-
+![Screenshot 2022-07-25 at 13-22-58 Frontend Mentor Profile card component](https://user-images.githubusercontent.com/81781462/180783043-a22615dd-e68d-4181-b61a-5fc1764cb4d2.png)
 
 
 ### Links
@@ -48,9 +48,9 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ```
 
 ### Continued development & Issues
--I would like to focus on making websites more responsive to different screen sizes and platforms.
--There were issues with making the mobile version as the circles are not in the right place and it is scrolling so the webpage size is not right
--With more practice, I also hope to get used to the code and hence become quicker for Hackathons
+- I would like to focus on making websites more responsive to different screen sizes and platforms.
+- There were issues with making the mobile version as the circles are not in the right place and it is scrolling so the webpage size is not right
+- With more practice, I also hope to get used to the code and hence become quicker for Hackathons
 
 ---
 ## Author
